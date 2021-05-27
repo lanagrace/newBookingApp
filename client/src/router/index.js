@@ -14,6 +14,7 @@ const routes = [
   {
     path: '/courts',
     name: 'Courts',
+    props: true,
     component: Courts
   }
 ]
